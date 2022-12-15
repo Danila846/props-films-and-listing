@@ -1,0 +1,7 @@
+.item-list {
+	margin-top: 50px;
+	display: block;
+	-moz-columns: 5;
+	-webkit-columns: 5;
+	columns: 5;
+}
